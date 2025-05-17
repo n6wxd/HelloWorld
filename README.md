@@ -24,7 +24,7 @@ If no name is provided, the script defaults to "world".
 
 Example:
 
-    ./hello.sh Alice
+    ./hello.sh Cirilla
 
 ## Many Thanks
 Many Thanks To The OpenHands Team!
